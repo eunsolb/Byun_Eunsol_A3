@@ -1,8 +1,20 @@
-
 .navbar-custom{
-  background-color: white;
-  border-color:#093D79;
+  background-color: #093D79;
+  color:white;
 }
+
+.navbar-custom h1{
+  font-size: 20px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.navbar-toggle {
+  float:left;
+  border: none;
+}
+
+
 
 .container-fluid{
   width: 75%;
